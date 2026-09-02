@@ -1,0 +1,27 @@
+.went-wrong-container {
+  min-height: 300px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 40px 20px;
+  text-align: center;
+}
+
+.went-wrong-img {
+  width: 160px;
+  margin-bottom: 20px;
+}
+
+.went-wrong-heading {
+  font-size: 20px;
+  color: var(--ink);
+  margin-bottom: 10px;
+}
+
+.went-wrong-description {
+  font-size: 14px;
+  color: var(--ink-soft);
+  max-width: 380px;
+  margin-bottom: 20px;
+}
